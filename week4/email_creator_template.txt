@@ -1,0 +1,7 @@
+To: {email}
+From: noreply@deals.com
+Subject: Deals!
+
+Hi {first_name},
+
+We've got some great deals for you. Check our website!
